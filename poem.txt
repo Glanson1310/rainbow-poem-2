@@ -2,8 +2,13 @@ The rainbow
 
 Purple 
 Pink 
+
 orange
+
 Blue Red
+
 Blue green
+
 These are the colors of rainbow
+
 black
